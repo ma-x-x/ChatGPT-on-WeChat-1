@@ -224,4 +224,4 @@ Of course, stuffing all handlers in `main` function is really a **BAD** habit in
 
 ## 3. How to Contribute to this Project?
 
-You can raise some issues, fork this repo, commit your code, submit pull request, and after code review, we can merge your patch. I'm really looking forward to develop more interesting features!
+You can raise some issues, fork this repo, commit your code, submit pull request, and after code review, we can merge your patch. I'm really looking forward to develop more interesting features !
